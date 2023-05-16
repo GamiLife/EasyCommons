@@ -1,0 +1,22 @@
+2023-02-20T13:35:33.627Z start add lib/core --namespace core
+2023-02-20T13:35:40.635Z end add lib/core --namespace core, code: 1
+2023-02-20T13:37:28.342Z start doctor
+2023-02-20T13:37:40.732Z end doctor, code: 0
+2023-02-20T13:39:43.242Z start add lib/core --namespace core
+2023-02-20T13:39:48.822Z end add lib/core --namespace core, code: 1
+2023-02-20T13:41:43.437Z start add lib/core --namespace core
+2023-02-20T13:41:50.554Z end add lib/core --namespace core, code: 0
+2023-02-20T13:46:02.278Z start status
+2023-02-20T13:46:18.421Z end status, code: 0
+2023-02-20T13:48:41.108Z start install @types/jest @types/node @babel/runtime
+2023-02-20T13:49:11.629Z end install @types/jest @types/node @babel/runtime, code: 0
+2023-02-20T13:55:06.714Z start status
+2023-02-20T13:55:14.678Z end status, code: 0
+2023-02-20T13:55:41.941Z start tag --all 1.0.0 --message first version
+2023-02-20T13:56:14.667Z end tag --all 1.0.0 --message first version, code: 0
+2023-02-20T13:57:03.300Z start export
+2023-02-20T13:57:13.859Z end export, code: 1
+2023-02-20T13:59:47.435Z start export
+2023-02-20T13:59:58.536Z end export, code: 0
+2023-02-20T14:32:11.880Z start config get user.token
+2023-02-20T14:32:15.041Z end config get user.token, code: 0

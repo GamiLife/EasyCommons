@@ -1,0 +1,177 @@
+[
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "node"
+    },
+    "head": "8a7185b7b8fea249c8d0b03771bc9ffb48612f9e"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "application"
+    },
+    "head": "efc53a864bb94ba6d023d1f328d8dda155a869af"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "aspect-loader"
+    },
+    "head": "7412740ce42c727d57f9149435c51475d5c771eb"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "harmony"
+    },
+    "head": "7cb79548ef537cf7143b4ed91f172eed599d94ec"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "bit"
+    },
+    "head": "3b4156a306b68123c784d62b8f6d9fb7facb9339"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "cli"
+    },
+    "head": "9cb610800afb3bd9ef582e6e7d93688bfd859202"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "logger"
+    },
+    "head": "286d3fbc311098405e566541513c8b814ecd5670"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "aspect-docs/logger"
+    },
+    "head": "622fb297dda1e950b3b18e9662d5578f6472896c"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "bit-error"
+    },
+    "head": "c31d3245e167ff9dcd50d98f1e22b314e23f2186"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "config"
+    },
+    "head": "f1a3eb808a533b95e9eeebe316b3362346a38dc2"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "worker"
+    },
+    "head": "0538e8621d95c4e8c1e5bfd3744972ff6a1eaadf"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "pubsub"
+    },
+    "head": "5f36af71242bd328acc6f423c7b4f5143bad95c9"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "express"
+    },
+    "head": "0b8b932bb23f3ed952d9b8eab76bf29c00baa713"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "graphql"
+    },
+    "head": "55d09a87e3bc1ccb99ec3683ef6548462092c735"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "global-config"
+    },
+    "head": "bf781eab087c51bb3e56d443902b4181b5f7293b"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "modules/requireable-component"
+    },
+    "head": "61db6453b79c6053d8694ba9088bee22efdcf2bb"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "modules/resolved-component"
+    },
+    "head": "fb55dcd23935bca816307b5df89b5fe97ab7d74f"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "testing/load-aspect"
+    },
+    "head": "c0dc1c4e4d4a146b2897a9cab40bf30ce934ae48"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "aspect"
+    },
+    "head": "1e0e1fa85d8ef691934502ef1332f51c9f2053ae"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "cache"
+    },
+    "head": "8e81ce6dd7c2454c93ab930b323687f0c7759541"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "api-server"
+    },
+    "head": "3c00f75f70ba06675e06b1ae24f5b3f0391d62a5"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "bit-custom-aspect"
+    },
+    "head": "3d25e73578a5ce0633eea1322b482cbe28b2b826"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "diagnostic"
+    },
+    "head": "ea99ced2e08d5a66573e3f64e61d59f38c2e33dc"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "ui/aspect-box"
+    },
+    "head": "bc8c72779b08405ae7d1352bf74e4a3b6ad79b0e"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "aspect-docs/node"
+    },
+    "head": "6a2f5f4442a3e3569622f9d7d4d1d876bb1f0e68"
+  }
+]
